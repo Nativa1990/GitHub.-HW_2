@@ -1,0 +1,8 @@
+bugname:
+severity:
+priority:
+environment:
+author:
+steps:
+actual result:
+expected result:
